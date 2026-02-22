@@ -15,7 +15,6 @@ Express.js REST API with MySQL database, JWT authentication, and role-based acce
 ## Installation
 
 ```bash
-cd backend
 npm install
 ```
 
@@ -103,7 +102,7 @@ curl http://localhost:5000/api/auth/me \
 ## Project Structure
 
 ```
-backend/
+./
 ├── config/
 │   └── database.js          # MySQL connection pool
 ├── controllers/
