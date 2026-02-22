@@ -14,6 +14,8 @@ Express.js REST API with MySQL database, JWT authentication, and role-based acce
 
 ## Installation
 
+Backend source code is in the `backend/` folder on the `main` branch.
+
 ```bash
 cd backend
 npm install
